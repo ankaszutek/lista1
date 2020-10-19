@@ -15,7 +15,7 @@ public class CowAnimal implements Mammal {
   @Override
 
   public void says() {
-    System.out.println("Cow says: 'Ela is a great friend'.");
+    System.out.println("Cow says: 'Ela is a great friend. Moo!'.");
   }
 
 }
