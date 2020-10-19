@@ -16,6 +16,6 @@ public class MainClass
     littleCow.says();
     final CalfAnimal littleCalf = new CalfAnimal();
     littleCalf.walks();
-    System.out.println("Dziala!");
+    System.out.println("Dziala! The end");
   }
 }
