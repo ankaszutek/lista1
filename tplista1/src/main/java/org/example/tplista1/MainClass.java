@@ -4,7 +4,7 @@ package org.example.tplista1;
  * Hello world!
  *
  */
-public class App 
+public class MainClass 
 {
   /**
    * Within we create two objects - cow and calf.
